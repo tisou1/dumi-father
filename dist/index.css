@@ -1,0 +1,8 @@
+.btn {
+  border: none;
+  padding: 12px 8px;
+}
+.btn.primary {
+  background-color: #1890ff;
+  color: #fff;
+}
